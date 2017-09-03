@@ -1,12 +1,5 @@
 {
-  "items": [
-    {
-      "author": "Molecule Man",
-      "title": "Dan Jukes"
-    },
-    {
-      "author": "Orquesta Tipica Bat Man",
-      "title": "Don Horacio"
-    }
-  ]
+  "one": "Singular sensation",
+  "two": "Beady little eyes",
+  "three": "Little birds pitch by my doorstep"
 }
